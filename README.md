@@ -5,9 +5,10 @@
 
 *Ilmu Komputer Universitas Negeri Jakarta*
 
-  1. Ahmad Al Jufri (1313618000) [Ahmad238](https://github.com/Ahmad238)
-  2. Fernando (1313618000)
-  3. Dhimas Amri Pratama (1313618018) [dhimasamri](https://github.com/dhimasamri)
+  1. Dhimas Amri Pratama (1313618018) [dhimasamri](https://github.com/dhimasamri)
+  2. Ahmad Al Jufri (1313618019) [Ahmad238](https://github.com/Ahmad238)
+  3. Fernando (1313618020)
+ 
 
 ## Task 1 ##
 

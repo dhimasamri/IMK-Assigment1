@@ -4,7 +4,7 @@
 
 ## Teks Interview ##
 
-Wawancara dilakukan pada hari sabtu malam tanggal 26 September 2020 dengan narasumber Kak Dwisyah Nabila Anggia, atau yang sering disapa dengan nama Kak Anggi yang saat ini bekerja di Telkom.
+Wawancara dilakukan pada hari sabtu malam tanggal 26 September 2020 dengan narasumber Kak Dwisyah Nabila Anggia, atau yang sering disapa dengan nama Kak Anggi yang saat ini bekerja sebagai UX designer di Telkom.
 
 #### 1. Kak Anggi sudah berapa lama berkecimpung di dunia UI/UX design? 
 

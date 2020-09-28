@@ -17,3 +17,7 @@
 ## Task 2 ##
 
 > https://github.com/dhimasamri/IMK-Assigment1/tree/master/Report%20Task%202
+
+## Video Wawancara ##
+
+> https://youtu.be/sgmYOUEEg1g

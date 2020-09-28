@@ -1,5 +1,5 @@
 # Interkom Assigment 1
-- - - -
+
 
 ## TEAM J ##
 

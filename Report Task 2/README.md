@@ -61,3 +61,19 @@ Wawancara dilakukan pada hari sabtu malam tanggal 26 September 2020 dengan naras
 #### 14. Ada gak sih cara kami untuk melihat portopolio kakak? 
 
 > Oh ada sih, tapi udah lama banget nggak ngeupdate. Kadang-kadang kalo lama ngerjain project tu udah lupa bikin dokumentasi. Nanti saya share aja via WA.
+
+
+## Rangkuman berdasarkan interview items
+
+#### 1. Years Experience
+Pertama kali ka Anggi mulai mendesain sebuah UX yaitu pada tahun 2016, jadi total sudah 4 tahun ka Anggi menjadi seorang UX Designer
+
+#### 2. How many design made counted by apps
+Terhitung sejak awal menjadi UX Designer, ka Anggi sudah membuat kurang lebih 30 design dan 20 design jika dihitung berdasarkan jumlah aplikasi
+
+#### 3. What is designer philosophy during design process
+Biasanya ka Anggi mendesain sesuai dengan requirements dari client, biasanya filosofi desainer ini berdasarkan dari user interview, menarik info terlebih dahulu kepada product owner atau project manager yang terkait. Tidak ada filosofi khusus, tetapi kalau berdasarkan ilmu ux design, pada umumnya sekarang berkiblat atau mengikuti NNG (Nielsen Norman Group).
+
+#### 4. Get copy to his/her design items
+
+#### 5.	Ask whether he/she had a habit to consider control design (the interaction parts), in case yes give proof

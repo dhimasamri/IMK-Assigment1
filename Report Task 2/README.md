@@ -62,6 +62,9 @@ Wawancara dilakukan pada hari sabtu malam tanggal 26 September 2020 dengan naras
 
 > Oh ada sih, tapi udah lama banget nggak ngeupdate. Kadang-kadang kalo lama ngerjain project tu udah lupa bikin dokumentasi. Nanti saya share aja via WA.
 
+#### 15. Maksud dari design kontrol (bagian interaksi) itu apa kak? menit 33.15
+
+> Mungkin kalo di lapangan itu tester gitu ya, orang yang ngehandle sperti dia bagian testing. Aku nangkepnya gitu sih, soalnya belum pernah denger istilah design kontrol. Dulu ya, kalo di project itu emang ada, dia profesinya user tester gitu sih. Nanti beliau-beliau yang ngasih tau oh ini problemnya dimana, ini harusnya bakal gini formnya. Nanti hasil dari laporan mereka itu diserahinnya ke designer atau ke developer gitu untuk kita merevisi tampilannya gitu.
 
 ## Rangkuman berdasarkan interview items
 
@@ -75,5 +78,7 @@ Terhitung sejak awal menjadi UX Designer, ka Anggi sudah membuat kurang lebih 30
 Biasanya ka Anggi mendesain sesuai dengan requirements dari client, biasanya filosofi desainer ini berdasarkan dari user interview, menarik info terlebih dahulu kepada product owner atau project manager yang terkait. Tidak ada filosofi khusus, tetapi kalau berdasarkan ilmu ux design, pada umumnya sekarang berkiblat atau mengikuti NNG (Nielsen Norman Group).
 
 #### 4. Get copy to his/her design items
+Ada di folder design
 
 #### 5.	Ask whether he/she had a habit to consider control design (the interaction parts), in case yes give proof
+Sepertinya kak Anggi kurang menangkap apa yang dimaksud dengan control design.

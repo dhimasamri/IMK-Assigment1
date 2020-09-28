@@ -48,7 +48,7 @@ Wawancara dilakukan pada hari sabtu malam tanggal 26 September 2020 dengan naras
 
 #### 11. Ada gak orang yang menjadi inspirasi kakak ketika berkecimpung di dunia UI/UX design? 
 
-> Namanya Boris Hasian. Dia itu senior designer di GoJek, tapi basisnya di singapura. Dia orang indonesia tapi nikah sama orang singapura. Banyak diundang jadi pembicara. Ngerasa dia jadi inspirasi karena dari sisi keilmuan terus pengalamannya itu udah.. ya udah diacungi jempol lah.
+> Namanya Borrys Hasian. Dia itu senior designer di GoJek, tapi basisnya di singapura. Dia orang indonesia tapi nikah sama orang singapura. Banyak diundang jadi pembicara. Ngerasa dia jadi inspirasi karena dari sisi keilmuan terus pengalamannya itu udah.. ya udah diacungi jempol lah.
 
 #### 12. Ketika kakak kedapatan order, kakak biasanya melihat karya orang lain gak sebagai referensi? 
 

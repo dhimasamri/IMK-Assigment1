@@ -20,7 +20,7 @@ Player Pokemon Go sendiri masih kurang was was ketika bermain. Mereka tetap berb
 Pokemon Go menggunakan menggunakan data geografis OpenStreetMap (OSM) untuk membuat, mengkarakteristik, dan mendistribusikan titik spawn atau spawn points, hal ini lah yang memungkinkan munculnya berbagai macam titik lokasi spawn yang bebas/random dan terkesan realistis.
 
 <p align="center">
-  <img height="300" src="Pok1.jpg">
+  <img height="300" src="pok1.jpg">
 </p>
 
 Titik spawn sangat random dan bebas seperti ini memang salah satu hal yang membuat Pokemon GO menarik, dengan menjelajah mencari pokemon ke suatu tempat yang bahkan baru memberikan pengalaman bermain game yang baru dan menyenangkan bagi para gamer khususnya pecinta serial Pokemon. 
@@ -28,7 +28,7 @@ Titik spawn sangat random dan bebas seperti ini memang salah satu hal yang membu
 Tapi hal inilah yang tidak disangka menjadi penyebab utama kecelakaan yang terjadi di dalam bermain Pokemon Go, titik spawn yang terletak dekat atau persis terletak dengan jalan raya/sungai menimbulkan ancaman kecelakaan. Player atau pemain cenderung berkumpul di titik rawan dengan hanya fokus untuk menangkap pokemon tanpa memperhatikan keadaan sekitarnya, tentunya itu membuat aktivitas para pengendara di area jalan raya itu terganggu sehingga terjadi kesalahan yang mengancam keselamatan orang orang disekitar.
 
 <p align="center">
-  <img height="300" src="Pok2.jpg">
+  <img height="300" src="pok2.jpg">
 </p>
 
 ## Solution ##
@@ -40,9 +40,9 @@ Dalam memperbaiki kelemahan dari sistem titik spawn ini kami memberikan dan meng
 Dengan kembali menggunakan data dari OpenStreetMap, kami memanfaatkan data itu untuk mengidentifikasi lokasi yang berbahaya untuk dijadikan titik spawn atau dekat dengan titik spawn. Misalnya dengan menggunakan data OPM kami menentukan dan memberikan batas area minimal lokasi spawn setidaknya sejauh 20 meter dari jalan raya besar, sungai/danau, dan bangunan besar seperti pabrik atau perkantoran karena wilayah seperti itulah yang biasanya rawan menyebabkan kecelakaan atau gangguan aktivitas masyarakat. Titik spawn yang didalam area batas inilah yang akan kami non-aktifkan atau hilangkan. Pokemon, Gym, Pokestops tidak akan muncul sama sekali pada aplikasi bila berada di area ini, sebaliknya titik spawn yang berada diluar area/zona dekat dengan wilayah berbahaya itu tetap akan berkerja sesuai dengan mekanisme yang biasanya.
 
 <p align="center">
-  <img height="480" src="Pok3.jpg">
+  <img height="480" src="pok3.jpg">
   &nbsp &nbsp
-  <img height="480" src="Pok4.jpg">
+  <img height="480" src="pok4.jpg">
 </p>
 
 ### 2. Memberikan fitur Report di dalam Aplikasi guna melaporkan jika ada lokasi yang sekiranya masih rawan bahaya meskipun berada di luar area berbahaya ###
@@ -50,13 +50,13 @@ Dengan kembali menggunakan data dari OpenStreetMap, kami memanfaatkan data itu u
 Nantinya di dalam aplikasi, jika pemain telah mencapai area titik lokasi dan bila pemain merasa bahwa lokasi tersebut sedang menjadi atau berada diwilayah yang berbahaya, pemain dapat mengklik tombol report yang tersedia pada screen smartphone sebelum masuk ke mode menangkap pokemon. Jika pemain mengklik atau menggunakan fitur report ini, terdapat kolom untuk mengisi alasan pemain mengapa menganggap area tersebut berbahaya, button untuk mengambil sebuah gambar melalui kamera smartphone sebagai buktinya, dan button Kirim/Send untuk mengirimkan laporan itu. pemain diharuskan mengisi kolom yang disediakan untuk memberikan alasan kenapa area ini berbahaya terlebih dahulu serta wajib mengambil gambar sebelum bisa menggunakan button Send.
 
 <p align="center">
-  <img height="480" src="Pok5.jpg">
+  <img height="480" src="pok5.jpg">
   &nbsp &nbsp
-  <img height="480" src="Pok6.jpg">
+  <img height="480" src="pok6.jpg">
 </p>
 
 Nantinya laporan itu akan diaudit, dan jika terbukti memang benar titik spawn di area itu berbahaya, server akan menon-aktifkan titik spawn itu selama sementara atau permanen sesuai dengan kondisi tempat itu sendiri.
 
 <p align="center">
-  <img height="300" src="Pok7.jpg">
+  <img height="300" src="pok7.jpg">
 </p>

@@ -4,7 +4,7 @@
   <img height="400" src="pic1.PNG">
 </p>
 
-Aplikasi yang kami ambil adalah Kamus Inggris Indonesia offline yang dipublish oleh Daff Mendia dan dapat dilihat pada tautan berikut:
+Aplikasi yang kami ambil adalah Kamus Inggris Indonesia offline yang dipublish oleh Daff Media dan dapat dilihat pada tautan berikut:
 
 https://play.google.com/store/apps/details?id=kamusinggris.kamusbahasainggris.kamusindonesiainggris
 

@@ -31,10 +31,11 @@ Pada bagian interaksi kontrol penggunaan aplikasi ini, terdapat beberapa hal yan
 
 ## Identify Key business use cases ##
 
-baris 1
-baris 2
-baris 3
-baris 4
+Fitur kunci yang ada di aplikasi ini, yaitu:
+1. Pencarian kata dalam bahasa inggris atau indonesia dan hasil terjemahannya.
+2. Fitur belajar tenses dan vocabulary.
+3. Fitur simpan kata atau kalimat.
+
 
 ## Activity Diagrams
 

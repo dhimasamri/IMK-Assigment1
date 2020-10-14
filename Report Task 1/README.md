@@ -1,3 +1,9 @@
+# Kamus Inggris Indonesia Offline by Daff Media #
+
+
+
+
+
 # Game “Pokemon GO” tingkatkan angka kematian #
 Dilansir dari berbagai media game Pokemon Go sudah banyak menyebabkan kerugian bahkan sampai merenggut nyawa di berbagai negara, seperti menyebabkan peningkatan kecelakaan lalu lintas dan maraknya kasus kriminal dengan memanfaatkan game Pokemon Go.
 

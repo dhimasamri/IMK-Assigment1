@@ -5,7 +5,9 @@
 </p>
 
 Aplikasi yang kami ambil adalah Kamus Inggris Indonesia offline yang dipublish oleh Daff Mendia dan dapat dilihat pada tautan berikut:
+
 https://play.google.com/store/apps/details?id=kamusinggris.kamusbahasainggris.kamusindonesiainggris
+
 Kamus Inggris Indonesia Offline adalah aplikasi android berupa kamus untuk menerjemahkan bahasa indonesia ke bahasa inggris dan juga sebaliknya. Aplikasi ini bisa mencari kosakata tanpa memerlukan koneksi internet, jadi apabila ingin mencari kosakata dalam bahasa indonesia maupun bahasa inggris secara offline bisa langsung digunakan. Fitur yang ada pada aplikasi ini diantaranya yaitu, fitur kata favorit, menambahkan kata-kata atau kalimat sendiri, tenses, dan kosakata/kalimat harian yang sering digunakan. Aplikasi ini telat didownload seribu kali di Google Playstore.
 
 ## Give reasoning why it isn't pleasant or cumbersome to use ##

@@ -12,7 +12,7 @@
 
 ## Task 1 ##
 
-> https://github.com/dhimasamri/IMK-Assigment1/tree/master/Report%20Task%201
+> https://github.com/dhimasamri/Interaksi-Manusia-Komputer/tree/hw2/Report%20Task%201
 
 ## Task 2 ##
 

@@ -20,4 +20,4 @@ Hasil dari voting yaitu 2:1 keunggulan untuk desain 1.
 Video Youtube : https://youtu.be/9EBRODfI5kM
 
 ## Day 4 ##
-Kami tidak sempat untuk melakukan meet up dengan developernya. Pada awalnya kami berhasil menghubungin developer tersebut via email, tetapi sampai saat ini developer tersebut belum dapat kami hubungin kembali.
+Kami tidak sempat untuk melakukan meet up dengan developernya. Pada awalnya kami berhasil menghubungin developer tersebut via email dan mendapatkan balasan yang menunjukkan kalau developernya tertarik untuk melihat hasil kami, tetapi sampai saat ini developer tersebut belum dapat kami hubungin kembali.

@@ -2,6 +2,12 @@
 
 ![Kamus Inggris Indonesia](https://github.com/dhimasamri/Interaksi-Manusia-Komputer/blob/hw2/Report%20Task%201/pic1.PNG)
 
+## Tentang Developer ##
+Kami tidak berhasil mendapatkan profil lengkap dari developer. Tapi salah satu team developer yang kami ketahui dan berhasil kami hubungi, yaitu:
+1. Nama : Bpk. Dalsugi
+2. Email : daffmediaapps@gmail.com
+
+
 ## Day 1 (Minggu, 11 Oktober 2020) ##
 * Video youtube : https://youtu.be/13rb5XnXS2M
 

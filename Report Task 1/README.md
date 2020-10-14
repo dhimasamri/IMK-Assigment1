@@ -28,3 +28,17 @@ Pada bagian interaksi kontrol penggunaan aplikasi ini, terdapat beberapa hal yan
 1. Kesalahan ketika menekan tombol back pada smartphone. umunya pada saat menggunakan aplikasi ketika kita sedang berada dalam sebuah halaman dan ingin kembali ke halaman sebelumnya, kita akan menggunakan tombol back pada smartphone jika tidak terdapat atau tersedia icon back pada halaman tersebut. Tetapi dalam aplikasi ini ketika kita menekan tombol back pada smartphone, bukannya kembali pada halaman sebelumnya, malah memunculkan menu sidebar ketika tombol back ditekan. Ini akan membingungkan/merepotkan pengguna khususnya pada bagian tenses dan vocabulary, contohnya ketika pengguna berada pada halaman isi "13. simple past futur" dan pengguna ingin kembali ke halaman sebelumnya untuk memilih halaman "14. Past future continuous" dengan menekan tombol back pada smartphone, pengguna akan kebingungan karena malah muncul menu dari side bar, mau tidak mau pengguna akan menekan kembali menu tenses dan menscroll lagi kebawah untuk kembali menuju ke halaman "14. Past futre continuous" yang ingin dimaksudkan tadi.
 2. Pada bagian translate, aplikasi ini hanya mampu mentranslate sebuah kata saja bukan sebuah kalimat. Ketika pengguna menuliskan lebih dari dua kata hasil translate sebelumnya akan hilang begitu saja, hal ini akan membuat pengguna bingung terlebih lagi tidak ada pesan yang memberitahu/menggingatkan pengguna bahwa aplikasi hanya mampu mentranslate satu kata saja.
 3. Kesalahan fitur voice pada halaman translate di bagian bahasa indonesia. Fitur voice yang digunakan untuk melafalkan kata bahasa inggris baik baik saja, tetapi berbeda pada saat melafalkan kata indonesia di bagian halaman translate "IND-ENG". Alih alih menggunakan voice dengan pelafalan bahasa indonesia, voice ini malah melafalkan kata dengan pelafalan bahasa inggris.
+
+## Identify Key business use cases ##
+
+baris 1
+baris 2
+baris 3
+baris 4
+
+## Activity Diagrams
+
+Gambar 1
+gambar 2
+gambar 3
+gambar 4

@@ -39,7 +39,15 @@ Fitur kunci yang ada di aplikasi ini, yaitu:
 
 ## Activity Diagrams
 
-Gambar 1
-gambar 2
-gambar 3
-gambar 4
+<p align="center">
+  <img width="1000" src="menerjemahkan kata.png">
+</p>
+<p align="center">
+  <img width="1000" src="menu tenses.png">
+</p>
+<p align="center">
+  <img width="1000" src="menu vocabulary.png">
+</p>
+<p align="center">
+  <img width="1000" src="menyimpan kata.png">
+</p>

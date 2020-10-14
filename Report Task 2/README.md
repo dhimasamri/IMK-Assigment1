@@ -14,6 +14,7 @@
 Tiap orang yang membuat desain mempresentasikan desainnya menggunakan zoom, dan kemudian kami melakukan voting untuk menentukan desain siapa yang akan digunakan. Peserta voting terdiri dari satu orang kelompok kami yang tidak membuat desain dan dua orang dari kelompok lain. Dua orang dari kelompok lain, yaitu:
 1. Adi Rahman
 2. Izzat Ibrahim
+
 Hasil dari voting yaitu 2:1 keunggulan untuk desain 1. 
 
 Video Youtube : https://youtu.be/9EBRODfI5kM

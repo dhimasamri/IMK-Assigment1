@@ -17,6 +17,20 @@ Tiap orang yang membuat desain mempresentasikan desainnya menggunakan zoom, dan 
 
 Hasil dari voting yaitu 2:1 keunggulan untuk desain 1. 
 
+Berikut merupakan tampilan dari mockup desain 1:
+<p align="center">
+  <img height="500" src="Competing design/Desain 1/Screenshot (61).png">
+</p>
+<p align="center">
+  <img height="500" src="Competing design/Desain 1/Screenshot (62).png">
+</p>
+<p align="center">
+  <img height="500" src="Competing design/Desain 1/Screenshot (63).png">
+</p>
+<p align="center">
+  <img height="500" src="Competing design/Desain 1/Screenshot (64).png">
+</p>
+
 Video Youtube : https://youtu.be/9EBRODfI5kM
 
 ## Day 4 ##
